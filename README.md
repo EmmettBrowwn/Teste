@@ -12,7 +12,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/74945817?v=4" width="100px;" alt="Foto do Emmett Brown no GitHub"/><br>
         <sub>
-          <b>Emmett Brown</b>
+          <b>Arthur Itajahy</b>
         </sub>
       </a>
     </td>
